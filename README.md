@@ -1,5 +1,4 @@
 # Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection (_ICCAD 2023_)
-### The source code for the paper has been made availabe only for the Reviewers of ICCAD and the code has not been published online. 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Dataset 
