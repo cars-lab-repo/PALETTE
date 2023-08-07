@@ -15,8 +15,7 @@ The dataste has binary label: _Trojan Free and Trojan Infected_. We include a th
 Source: https://trust-hub.org/#/benchmarks/chip-level-trojan
 
 ## Solution 
-
-![solution1](https://github.com/cars-lab-repo/PALETTE/assets/64368687/c67f0a20-98b3-4b34-87ca-b273c5f6d5da)
+![Solution](https://github.com/cars-lab-repo/PALETTE/assets/64368687/db8b0d56-426e-45d9-bed7-0b84d175433a)
 
 ## Features
 - Generates evolved hardware trojans from a given set of dataset.
