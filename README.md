@@ -24,4 +24,4 @@ Source: https://trust-hub.org/#/benchmarks/chip-level-trojan
 - A novel method for risk-aware ranking of trojans.
 
 ## License
-MIT
+GNU General Public License v3.0
