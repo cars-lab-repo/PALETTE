@@ -18,7 +18,7 @@ Source: https://trust-hub.org/#/benchmarks/chip-level-trojan
 ![Solution](https://github.com/cars-lab-repo/PALETTE/assets/64368687/db8b0d56-426e-45d9-bed7-0b84d175433a)
 
 ## Experiments
-Use the below notebooks for reproducign the results in the paper. 
+Use the below notebooks for reproducing the results in the paper. 
 
 ### 1. Generate 10,000 data points using conformalized GAN. 
 This uses the existing input dataste and apply cGAN. 
