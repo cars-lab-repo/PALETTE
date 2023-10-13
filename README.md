@@ -4,6 +4,9 @@
 ## Dataset 
 We have used two different dataset for the detection of hardware trojans. 
 
+**Note**: The relevant dataset needs to be accessed from the below dataset source. <br>
+**We are not providing dataset in our GitHub repo for Trust-Hub Chip Level Trojan benchmark.**  
+
 ### 1. Synthetic dataset: CASlab GAINESIS Tool
 The dataste has binary label: _Trojan Free and Trojan Infected_. The benchmark distribution consists of a total 18 types of circuits. Specifically, our benchmark consists of 14 synchronous and 4 asynchronous circuits. Sychronous circuits are, AES, B15, ETHERNETMAC10GE, MEMCTRL, PIC16F84, RS232, S1423, S13207, S15850, S35932, S38417, S38584, VGALCD and WB_CONMAX. Asychronous circuits are, C2670, C3540, C5315 and C6288.
 
