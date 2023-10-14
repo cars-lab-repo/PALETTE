@@ -1,8 +1,10 @@
-# Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection (_ICCAD 2023_)
+# PALLETE: Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection
+This repository contains various components related to the research paper and source codes of the evolving hardware Trojan detection framework.  </br>
+[Rahul Vishwakarma](https://github.com/rahvis) & [Amin Rezaei](https://github.com/r3zaei) </br>
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Dataset 
-We have used two different dataset for the detection of hardware trojans. 
+We have used two different dataset for the detection of hardware Trojans. 
 
 **Note**: The relevant dataset needs to be accessed from the below dataset source. <br>
 **We are not providing dataset in our GitHub repo for Trust-Hub Chip Level Trojan benchmark.**  
@@ -36,7 +38,7 @@ Provides the confidence and credibility plots.
 ```
 
 ### 3. Results for TrustHub Chip-Level Trojan dataset.
-This has three notebooks. The first one detects the evolving hardware trojans. 
+This has three notebooks. The first one detects the evolving hardware Trojans. 
 ```
 01_detect_evolving_trojans.ipynb
 ```
@@ -64,10 +66,10 @@ explanation_3.html
 ```
 
 ## Features
-- Generates evolved hardware trojans from a given set of dataset.
-- Provides guaranteed coverage of detected hardware trojans.
+- Generates evolved hardware Trojans from a given dataset.
+- Provides guaranteed coverage of detected hardware Trojans.
 - Calibrated explanations for the rejected decisions. 
-- A novel method for risk-aware ranking of trojans.
+- A novel method for risk-aware ranking of Trojans.
 
 ## License
 GNU General Public License v3.0
