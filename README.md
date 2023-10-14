@@ -1,6 +1,7 @@
 # PALLETE: Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection
 This repository contains various components related to the research paper and source codes of the evolving hardware Trojan detection framework.  </br>
 [Rahul Vishwakarma](https://github.com/rahvis) & [Amin Rezaei](https://github.com/r3zaei) </br>
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Dataset 
