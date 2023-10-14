@@ -74,3 +74,17 @@ explanation_3.html
 
 ## License
 GNU General Public License v3.0
+
+## Citation
+```
+@INPROCEEDINGS{PALLETE,
+  author={Vishwakarma, Rahul and Rezaei, Amin},
+  booktitle={Proceedings of 42nd International Conference on Computer Aided Design (ICCAD)}, 
+  title={Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-9},
+  doi={}
+}
+
