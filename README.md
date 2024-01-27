@@ -75,7 +75,7 @@ GNU General Public License v3.0
 
 ## Citation
 ```
-@INPROCEEDINGS{PALLETE,
+@INPROCEEDINGS{PALETTE,
   author={Vishwakarma, Rahul and Rezaei, Amin},
   booktitle={2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)}, 
   title={Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection}, 
